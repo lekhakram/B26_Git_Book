@@ -1,0 +1,5 @@
+Welcome to git !!
+
+I hope your have fun with working with git
+
+Missing my java classes.
