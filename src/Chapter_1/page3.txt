@@ -3,3 +3,7 @@ Welcome to git !!
 I hope your have fun with working with git
 
 Missing my java classes
+
+itsm has been two month for trainings. 
+
+its going as per expected.
